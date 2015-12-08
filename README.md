@@ -1,1 +1,3 @@
 # WORKING APP WITH MONGODB, EXPRESS, ANGULAR RESOURCES N SHIT #
+
+##start with `npm start`#
