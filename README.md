@@ -1,3 +1,3 @@
-# WORKING APP WITH MONGODB, EXPRESS, ANGULAR RESOURCES N SHIT #
-
-##start with `npm start`#
+Smallest complete MEAN app - all the code is in [index.ejs](views/index.ejs) and routes dir  
+  
+`npm install && npm start`
